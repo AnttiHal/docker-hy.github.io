@@ -2,14 +2,14 @@
 askjfkajsdf
 If you have any questions, send an email to jami.kousa@helsinki.fi or send a message through the course Discord group.
 
-## Material template
-
-This repository contains both the source code of this course's webpage and the source for the content of the course. The content is located in the `data` folder and everything else is for the website.
-
-## Contributing to the content
-
-If you spot a mistake, feel free to open an issue in this repo after consulting with the course assistants.
-
+v## Material template
+sd
+Thvsdfvsdis repository contains both the source code of this course's webpage and the source for the content of the course. The content is located in the `data` folder and everything else is for the website.
+fvdsfvs
+## Contdfvributing to the content
+dsfv
+If ydsfvou spot a mistake, feel free to open an issue in this repo after consulting with the course assistants.
+dsfvd
 If you'd help us making the correction, you can open a pull request with your proposed changes. You may find these resources helpful for doing this:
 
 * [About pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
