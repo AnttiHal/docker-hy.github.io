@@ -6,7 +6,7 @@ v## Material template
 sd
 Thvsdfvsdis repository contains both the source code of this course's webpage and the source for the content of the course. The content is located in the `data` folder and everything else is for the website.
 fvdsfvs
-## Contdfvributing to the content
+## Contdfvributing to the ksdfjgeruteoidf
 dsfvasdvasdvöasdvöasdöäv
 If ydsfvou spot a mistake, feel free to open an issue in this repo after consulting with the course assistants.
 dsfvd
